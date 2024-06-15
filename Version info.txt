@@ -1,0 +1,11 @@
+1- basic (with contour detection)
+2- reduces the area to improve the frame rate
+3- uses threading to improve more, no parcel detection feature, only postcode
+4- Can detect in any angle
+5- Bounding box
+6- fix orientation with a help of a letter
+7- 20 degree interval angles
+8- Introducing snapshot in 0.5 seconds
+9- bug fixes
+10- reduces time to 0.2
+10f- function of v10
